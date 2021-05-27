@@ -71,3 +71,11 @@ aside h2{
     margin-top: 0px;
 }
 
+a{
+    color: red;
+}
+
+a:hover{
+color: blue;
+}
+
